@@ -19,5 +19,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhoussambouzine&" alt="ahmedhoussambouzine" /></p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=AhmedHoussamBouzine&bg_color=fff&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=AhmedHoussamBouzine&bg_color=fff&color=030303&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
