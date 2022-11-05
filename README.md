@@ -19,4 +19,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhoussambouzine&" alt="ahmedhoussambouzine" /></p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AhmedHoussamBouzine&bg_color=fff&color=000&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://activity-graph.herokuapp.com/graph?username=AhmedHoussamBouzine&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+
