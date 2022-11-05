@@ -3,3 +3,5 @@
 <h3 align="left">Connect with me:</h3> <h3><a href="ahmedhoussam.bouzine.01@gmail.com">ahmedhoussam.bouzine.01@gmail.com</a></h3> 
 <p align="left">
 </p>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AhmedHoussamBouzine&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
