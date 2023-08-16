@@ -1,6 +1,6 @@
-# Hi 👋, I'm Bouzine Ahmed Houssam
+<h1 style="ext-align:center">Hi 👋, I'm Bouzine Ahmed Houssam</h1>
 
-#### Full Stack Developer and Big Data & Cloud Computing Engineering Student at ENSET Mohammedia
+<p style="text-align:center">Full Stack Developer and Big Data & Cloud Computing Engineering Student at ENSET Mohammedia</p>
 ---
 
 ![views](https://komarev.com/ghpvc/?username=ahmedhoussambouzine&label=Profile%20views&color=0e75b6&style=flat)
