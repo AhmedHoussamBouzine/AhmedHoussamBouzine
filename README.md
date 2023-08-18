@@ -25,4 +25,4 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedhoussambouzine&)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=AhmedHoussamBouzine&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://github-readme-activity-graph.vercel.app/graph?username=AhmedHoussamBouzine&theme=github)]
