@@ -24,3 +24,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=ahmedhoussambouzine&show_icons=true&locale=en)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedhoussambouzine&)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=AhmedHoussamBouzine&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
