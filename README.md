@@ -10,7 +10,7 @@
 
 #### Find me:
 
-[![Twitter](https://img.shields.io/badge/twitter-05122A?style=flat&logo=twitter)](https://twitter.com/bah058)&nbsp;[![LindedIn](https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/ahmed-houssam-bouzine)&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-05122A?style=flat&logo=instagram)](https://instagram.com/ahmed.houssam.bouzine)&nbsp;[![medium](https://img.shields.io/badge/Medium-05122A?style=flat&logo=medium)](https://medium.com/@ahmedhoussam.bouzine.01)&nbsp;[![HackerRank](https://img.shields.io/badge/HackerRank-05122A?style=flat&logo=hackerrank)](https://www.hackerrank.com/@bouzine_bouzine1)&nbsp;[![HackerRank](https://img.shields.io/badge/LeetCode-05122A?style=flat&logo=leetcode)]()
+[![Twitter](https://img.shields.io/badge/X(Twitter)-05122A?style=flat&logo=X)](https://twitter.com/bah058)&nbsp;[![LindedIn](https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/ahmed-houssam-bouzine)&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-05122A?style=flat&logo=instagram)](https://instagram.com/ahmed.houssam.bouzine)&nbsp;[![medium](https://img.shields.io/badge/Medium-05122A?style=flat&logo=medium)](https://medium.com/@ahmedhoussam.bouzine.01)&nbsp;[![HackerRank](https://img.shields.io/badge/HackerRank-05122A?style=flat&logo=hackerrank)](https://www.hackerrank.com/@bouzine_bouzine1)&nbsp;[![HackerRank](https://img.shields.io/badge/LeetCode-05122A?style=flat&logo=leetcode)]()
 
 ---
 #### My Skills:
