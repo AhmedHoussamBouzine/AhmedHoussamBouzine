@@ -10,7 +10,7 @@
 
 #### Find me:
 
-[![Twitter](https://img.shields.io/badge/X(Twitter)-05122A?style=flat&logo=X)](https://twitter.com/bah058)&nbsp;[![LindedIn](https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/ahmed-houssam-bouzine)&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-05122A?style=flat&logo=instagram)](https://instagram.com/ahmed.houssam.bouzine)&nbsp;[![Leetcode](https://img.shields.io/badge/LeetCode-05122A?style=flat&logo=leetcode)](https://leetcode.com/AhmedHoussamBouzine/)
+[![Twitter](https://img.shields.io/badge/X-121212?style=flat&logo=X)](https://twitter.com/bah058)&nbsp;[![LindedIn](https://img.shields.io/badge/LinkedIn-121212?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/ahmed-houssam-bouzine)&nbsp;[![Leetcode](https://img.shields.io/badge/LeetCode-121212?style=flat&logo=leetcode)](https://leetcode.com/AhmedHoussamBouzine/)
 
 ---
 #### My Skills:
