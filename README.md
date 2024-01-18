@@ -1,12 +1,12 @@
-<h4 align="center">Hi there 👋, I'm Bouzine Ahmed Houssam</h4>
+<h4 align="center">Hi there 👋</h4>
 
-I'm Ahmed Houssam BOUZINE, an enthusiastic Big Data & Cloud Computing Engineering student with a passion for computer science.
+<p> I'm Ahmed Houssam BOUZINE, an enthusiastic Big Data & Cloud Computing Engineering student with a passion for computer science.</p>
 <br>
-I love Linux, JAVA, Cloud, and containers, and I find joy in exploring software architecture, Rust, and systems.
+<p> I love Linux, JAVA, Cloud, and containers, and I find joy in exploring software architecture, Rust, and systems.</p>
 <br>
-Beyond the world of computer science, my interests extend to startups, politics, and emerging technologies.
+<p> Beyond the world of computer science, my interests extend to startups, politics, and emerging technologies.</p>
 <br>
-And by the way, I like lions! 🦁
+<p> And by the way, I like lions! 🦁</p>
 
 ![views](https://komarev.com/ghpvc/?username=ahmedhoussambouzine&label=Profile%20views&color=0e75b6&style=flat)
 
