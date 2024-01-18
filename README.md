@@ -1,6 +1,12 @@
-<h1 align="center">Hi 👋, I'm Bouzine Ahmed Houssam</h1>
+<h4 align="center">Hi there 👋, I'm Bouzine Ahmed Houssam</h4>
 
-<h4 align="center">Full Stack Developer and Big Data & Cloud Computing Engineering Student @ENSET</h4>
+I'm Ahmed Houssam BOUZINE, an enthusiastic Big Data & Cloud Computing Engineering student with a passion for computer science.
+<br>
+I love Linux, JAVA, Cloud, and containers, and I find joy in exploring software architecture, Rust, and systems.
+<br>
+Beyond the world of computer science, my interests extend to startups, politics, and emerging technologies.
+<br>
+And by the way, I like lions! 🦁
 
 ![views](https://komarev.com/ghpvc/?username=ahmedhoussambouzine&label=Profile%20views&color=0e75b6&style=flat)
 
