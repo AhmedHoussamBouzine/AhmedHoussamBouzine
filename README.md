@@ -35,3 +35,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedhoussambouzine&)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=AhmedHoussamBouzine&theme=github)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AhmedHoussamBouzine" alt="AhmedHoussamBouzine" /></a> </p>
+
