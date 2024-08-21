@@ -11,6 +11,6 @@ I'm:
 
 Feel free to reach out if you want to collaborate on a project or just chat about tech!
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ahmed-houssam-bouzine/)
-- Twitter: [Your Twitter](https://x.com/assadon_)
+- LinkedIn: [Ahmed Houssam BOUZINE](https://www.linkedin.com/in/ahmed-houssam-bouzine/)
+- Twitter: [@assadon_](https://x.com/assadon_)
 - Email: ahmedhoussam.bouzine@gmail.com
