@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-I'm:
+*I'm Ahmed Houssam BOUZINE, a final-year engineering student specializing in Big Data & Cloud Computing.
 
-- 🌍 From Morocco
-- 💻 A Software Engineer
-- 🎓 Currently studying Big Data & Cloud Computing
-- 🦀 A Rust Enthusiast
-- 🛠️ Interested in Linux, Java, Cloud, and Containers
+*I have a strong interest in **Linux**, **Java**, **Cloud**, and **Containers**.
 
+*I'm a part-time contributor to **@rustbdarija** and **@gobdarija**.
 
-Feel free to reach out if you want to collaborate on a project or just chat about tech!
+Feel free to reach out if you'd like to collaborate on a project or just chat about tech!
 
-- LinkedIn: [Ahmed Houssam BOUZINE](https://www.linkedin.com/in/ahmed-houssam-bouzine/)
-- Twitter: [@assadoon_](https://x.com/assadoon_)
-- Email: ahmedhoussam.bouzine@gmail.com
+- **LinkedIn**: [Ahmed Houssam BOUZINE](https://www.linkedin.com/in/ahmed-houssam-bouzine/)
+- **Twitter**: [@assadoon_](https://x.com/assadoon_)
+- **Email**: [ahmedhoussam.bouzine@gmail.com](mailto:ahmedhoussam.bouzine@gmail.com)
