@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-* I'm Ahmed Houssam BOUZINE, a final-year engineering student specializing in Big Data & Cloud Computing.
+* I'm Ahmed Houssam BOUZINE, a computer science student.
 
-* I have a strong interest in **Linux**, **Java**, **Cloud**, and **Containers**.
+* I love **Rust**, **Linux**, **Java**, and **Containers**, and I am interested in **System Design** and **Software Architecture**.
 
 * I'm a part-time contributor **@rustbdarija** and **@gobdarija**.
+
+* Fun fact: I love Lions 🦁
 
 Feel free to reach out if you'd like to collaborate on a project or just chat about tech!
 
